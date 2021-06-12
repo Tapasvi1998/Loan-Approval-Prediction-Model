@@ -1,2 +1,8 @@
 # Loan-Approval-Prediction-Model
-Goal to Predict if the Customer Eligible for the Loan
+Goal to Predict if the Applicant is Eligible for the Loan
+
+
+Goal: To Predict if the applicant is eligible for loan.
+•	Loan prediction is a classification problem as Loan Status column is categorical (Y, N).
+•	Performed profiling, data preprocessing and exploratory data analysis for better understanding of data.
+•	Used Logistic Regressor, Decision Tree, Random Forest, AdaBoost, Kneighbor to compare between the models and to obtain better accuracy.
